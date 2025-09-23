@@ -1,3 +1,3 @@
 # Firstrepo
 This is my first repo
-author Arya
+author Ar
